@@ -119,8 +119,6 @@ def tobs():
 @app.route('/api/v1.0/<start>')
 def date_start(start=None):
 
-    # start_date = dt.datetime.strptime(start, '%Y-%m-%d')
-
     session = Session(engine)
     random_date = session.query(func.min(Measurement.tobs), 
                            func.max(Measurement.tobs), 
