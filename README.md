@@ -37,3 +37,9 @@
 ### Step 2 - Climate App
 Now that you have completed your initial analysis, design a Flask API based on the queries that you have just developed.
 * Use FLASK to create your routes.
+
+![image](https://user-images.githubusercontent.com/72557712/120234721-c929e580-c215-11eb-9204-390016c67257.png)
+
+* Date & Precipitation: <br>
+![image](https://user-images.githubusercontent.com/72557712/120234765-dd6de280-c215-11eb-848a-94722d38ee55.png)
+
